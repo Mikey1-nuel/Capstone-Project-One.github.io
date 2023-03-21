@@ -4,7 +4,7 @@
   <img src="images/logo2.png" alt="logo" width="100"  height="auto" />
   <br/>
 
-  <h3><b>CAPSTONE PROJECT ONE</b></h3>
+  <h3><b>CAPSTONE PROJECT</b></h3>
 
 </div>
 
