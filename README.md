@@ -36,6 +36,16 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Key Features <a name="key-features"></a>
+
+
+- **Presents the Home page for Health Awareness Programme 2023**
+- **Presents the About page for Health Awareness Programme 2023**
+- **Displays Speakers List with more and less button functionality**
+- **Displays Mobile Menu**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://mikey1-nuel.github.io/Capstone-Project-One.github.io/)
@@ -80,7 +90,8 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Ruby**
+- [ ] **More Content will be personalized**
+- [ ] **Other pages will be created and linked to the home page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,8 +114,7 @@ If you like this project, please comment on the project. If you found an issue o
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank Microverse Community for inspiring this project and codebase. It is a pleasure to have joined the program and I hope to learn a lot more as I progress.
+A huge shoutout for [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) who is creator of the original design in which this project is inspired.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
