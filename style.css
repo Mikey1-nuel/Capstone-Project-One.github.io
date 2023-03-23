@@ -898,7 +898,8 @@ button {
     align-items: center;
     padding: 0 5%;
     margin: 0;
-    gap: 15px;
+    gap: 5px;
+    max-width: 100%;
   }
 
   .list-item3 {
@@ -907,8 +908,9 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 110%;
+    min-width: 90px;
     padding: 5px;
+    height: 200px;
   }
 
   .partnercont img {
@@ -1267,7 +1269,7 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 100%;
+    min-width: 100%;
     padding: 5px;
   }
 
